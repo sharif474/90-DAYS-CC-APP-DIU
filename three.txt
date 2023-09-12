@@ -1,0 +1,14 @@
+public class Main {
+  public static void main(String[] args) {
+   
+  
+    //printing numbers
+    
+System.out.println(358);
+
+//using variables
+
+String name = "sharif";
+System.out.println(name);
+  }
+}
