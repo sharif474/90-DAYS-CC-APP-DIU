@@ -1,0 +1,3 @@
+//rged
+ git config --global user.email "sharif74a@gmail.com
+  git config --global user.name "sharif474"
