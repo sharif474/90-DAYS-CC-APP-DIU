@@ -1,3 +1,6 @@
-//rged
- git config --global user.email "sharif74a@gmail.com
-  git config --global user.name "sharif474"
+#include <iostream>
+
+int main() {
+    std::cout << "Hello World!";
+    return 0;
+}
