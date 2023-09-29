@@ -10,7 +10,7 @@ int sum(int k) {
 }
 
 int main() {
-  int result = sum(10);
+  int result = sum(20);
   cout << result;
   return 0;
 }
